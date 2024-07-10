@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+arrays-lib-cpp.layout
+
+/bin
+/obj
